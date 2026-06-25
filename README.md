@@ -38,3 +38,19 @@ Created a Product Card UI using React JSX.
 - Created reusable components using Props
 - Organized the application into smaller components
 - Improved code readability through cleanup and destructuring
+
+------------------------------------------------------------------------
+
+## Day 3 - React State and Event Handling
+
+### Topics Learned
+- Introduction to React State
+- Event Handling
+- Saving Data using State
+- Generating HTML dynamically
+- Making the Chatbot Interactive
+
+### Practice
+- Started implementing React State in the chatbot project
+- Used event handling to make the chatbot interactive
+- Updated the chatbot UI based on user interactions

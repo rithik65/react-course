@@ -78,3 +78,21 @@ Created a Product Card UI using React JSX.
 - Rendered chat messages dynamically using `map()`
 - Added interactive user input with `onChange` and `onClick`
 - Managed chatbot data using arrays and objects
+
+----------------------------------------------------------------------------------
+
+## Day 5 - CSS with React, Hooks and Chatbot (Part 1)
+
+### Topics Learned
+
+- CSS with React
+- Introduction to React Hooks
+- Styling React Components
+- Continued building the Chatbot project
+- Improved the chatbot user interface
+
+### Practice
+
+- Applied CSS to React components
+- Explored the basics of React Hooks
+- Enhanced the chatbot project with improved styling and functionality

@@ -96,3 +96,28 @@ Created a Product Card UI using React JSX.
 - Applied CSS to React components
 - Explored the basics of React Hooks
 - Enhanced the chatbot project with improved styling and functionality
+
+--------------------------------------------------------------------------
+
+## Day 6 - CSS with React, Hooks and Chatbot Project (Part 2)
+
+### Topics Learned
+
+- CSS with React
+- Styled the Chatbot Project
+- Built flexible layouts using Flexbox
+- Used the Ternary Operator (`? :`) for conditional rendering in JSX
+- Learned React Hooks
+- Used `useEffect` to run code after a component is created or updated
+- Used `useRef` to access and manage HTML elements
+- Implemented the auto-scroll feature in the chatbot
+- Completed the React Chatbot Project
+
+### Practice
+
+- Styled the chatbot using CSS
+- Created responsive layouts with Flexbox
+- Applied conditional rendering using the ternary operator
+- Implemented `useEffect` and `useRef`
+- Added auto-scrolling for chat messages
+- Completed a fully functional React Chatbot application

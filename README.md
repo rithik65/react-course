@@ -121,3 +121,25 @@ Created a Product Card UI using React JSX.
 - Implemented `useEffect` and `useRef`
 - Added auto-scrolling for chat messages
 - Completed a fully functional React Chatbot application
+
+-------------------------------------------------------------------------------------
+
+## Day 7 - Proper React Setup
+
+### Topics Learned
+
+- Introduction to a proper React project setup
+- Creating a React project using Vite
+- Understanding the React project folder structure
+- Running a React application locally
+- Understanding `package.json`
+- Installing project dependencies using npm
+- Understanding the `src` and `public` folders
+- Starting the development server
+
+### Practice
+
+- Created a React project using Vite
+- Explored the project structure
+- Ran the React development server
+- Verified the application in the browser
